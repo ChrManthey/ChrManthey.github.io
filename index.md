@@ -9,7 +9,7 @@ I am interested in the evolution of metamorphosis in insects. Holometabolous ins
 
 <a href="CM_CV_Dec21_2.html">My full CV</a>
 
-2017-present
+2017-present /
 **PhD Evolutionary Biology** Freie Universität Berlin (Berlin, Germany)
 
 2015-2017
