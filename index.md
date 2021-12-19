@@ -5,6 +5,24 @@ I am interested in the evolution of metamorphosis in insects. Holometabolous ins
 
 <img src="eugene-golovesov-2yRbOTQoMMo-unsplash.jpg" width="200" height="300" alt="hi" class="inline"/>
 
-## Résumé
+## Curriculum Vitae
 
-p><a href="CM_CV_Dec21_2.html">My CV</a>
+<a href="CM_CV_Dec21_2.html">My full CV</a>
+
+2017-present
+**PhD Evolutionary Biology** Freie Universität Berlin (Berlin, Germany)
+
+2015-2017
+**MSc Biodiversity, Evolution, and Ecology** Freie Universität Berlin (Berlin, Germany)
+
+2016
+**Visiting Master student** Uppsala University, Department of Ecology and Genetics, Limnology (Uppsala, Sweden)
+
+2012-2017
+**Teaching Assistant** Freie Universität Berlin, Institute of Biology, Department Zoology (Berlin, Germany)
+
+2011-2015
+**BSc Biology** Freie Universität Berlin (Berlin, Germany)
+
+2013
+**Exchange Bachelor student** Norwegian University of Science and Technology (Trondheim, Norway)
