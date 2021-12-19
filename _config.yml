@@ -1,4 +1,4 @@
 remote_theme: pages-themes/minimal@v0.2.0
 title: Christin Manthey
 description: I am a PhD student in the field of evolutionary biology.
-color: "orange"
+text-col: "orange"
