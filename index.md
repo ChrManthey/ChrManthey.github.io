@@ -6,7 +6,7 @@ I am a third year PhD student in the evolutionary biology group of [Jens Rolff](
 
 ## Curriculum Vitae
 
-### **<a href="CM_CV_Dec21_2.html">My full CV</a>**
+### **<a href="CM_CV_Dec21_2.html">Link to my full CV</a>**
 
 2017-present
 **PhD Evolutionary Biology** Freie Universität Berlin (Berlin, Germany)
