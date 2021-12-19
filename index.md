@@ -1,4 +1,4 @@
-<img src="_K1A3232_korr_eciRGB_8_20x30cm_b.jpg" width="300" height="200">
+<img src="My_Pic.JPG" width="300" height="200">
 
 ## About Me
 
