@@ -11,11 +11,14 @@ I am a third year PhD student in the evolutionary biology group of [Jens Rolff](
 2017-present
 **PhD Evolutionary Biology** Freie Universität Berlin (Berlin, Germany)
 
+2016
+**Visiting Master student** Uppsala University, Department of Ecology and Genetics, Limnology (Uppsala, Sweden)
+
 2015-2017
 **MSc Biodiversity, Evolution, and Ecology** Freie Universität Berlin (Berlin, Germany)
 
-2016
-**Visiting Master student** Uppsala University, Department of Ecology and Genetics, Limnology (Uppsala, Sweden)
+2013
+**Exchange Bachelor student** Norwegian University of Science and Technology (Trondheim, Norway)
 
 2012-2017
 **Teaching Assistant** Freie Universität Berlin, Institute of Biology, Department Zoology (Berlin, Germany)
@@ -23,5 +26,3 @@ I am a third year PhD student in the evolutionary biology group of [Jens Rolff](
 2011-2015
 **BSc Biology** Freie Universität Berlin (Berlin, Germany)
 
-2013
-**Exchange Bachelor student** Norwegian University of Science and Technology (Trondheim, Norway)
