@@ -9,7 +9,7 @@ I am broadly interested in the evolution of metamorphosis in insects and the ins
 
 ## Curriculum Vitae
 
-### **<a href="CM_CV_Dec21_2.html" target=”_blank”>Link to my full CV</a>**
+### **<a href="CM_CV_Dec21_2.html">Link to my full CV</a>**
 
 2022-present
 **Postdoctoral researcher** Max-Planck-Institute for Chemical Ecology, Department of Insect Symbiosis (Jena, Germany)
