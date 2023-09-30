@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am an early career postdoc in the insect symbiosis group of <a href="https://www.mpg.de/14608616/chemical-ecology-kaltenpoth" target="_blank">Martin Kaltenpoth</a> and did my PhD in the evolutionary biology group of [Jens Rolff](https://www.bcp.fu-berlin.de/en/biologie/arbeitsgruppen/zoologie/ag_rolff/people/rolff/index.html).
+I am an early career postdoc in the insect symbiosis group of [Martin Kaltenpoth](https://www.mpg.de/14608616/chemical-ecology-kaltenpoth) and did my PhD in the evolutionary biology group of [Jens Rolff](https://www.bcp.fu-berlin.de/en/biologie/arbeitsgruppen/zoologie/ag_rolff/people/rolff/index.html).
 I am broadly interested in the evolution of metamorphosis in insects and the insect's microbiota. I focus on two topics:
 1. The evolution of complete metamorphosis in insects
 2. Insect-bacteria symbiosis and symbiont genomes
